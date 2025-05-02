@@ -5,11 +5,11 @@ with open("README.md", "r", encoding="utf8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="pykan",
-    version="0.0.5",
-    author="Ziming Liu",
-    author_email="zmliu@mit.edu",
-    description="Kolmogorov Arnold Networks",
+    name="UMNet",
+    version="0.0.1",
+    author="Ayad Alhussaini",
+    author_email="ayad.a.alhussaini@gmail.com",
+    description="Univariate Multiplication Networks",
     long_description=long_description,
     long_description_content_type="text/markdown",
     # url="https://github.com/kindxiaoming/",
