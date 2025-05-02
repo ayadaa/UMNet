@@ -12,7 +12,7 @@ import random
 import copy
 
 
-class KAN(nn.Module):
+class UMNet(nn.Module):
     '''
     KAN class
     
